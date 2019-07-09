@@ -1,0 +1,14 @@
+C:\Users\akumari\source\repos\UserAPI\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.deps.json
+C:\Users\akumari\source\repos\UserAPI\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.runtimeconfig.json
+C:\Users\akumari\source\repos\UserAPI\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.runtimeconfig.dev.json
+C:\Users\akumari\source\repos\UserAPI\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.dll
+C:\Users\akumari\source\repos\UserAPI\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.pdb
+C:\Users\akumari\source\repos\UserAPI\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.csproj.CoreCompileInputs.cache
+C:\Users\akumari\source\repos\UserAPI\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.RazorAssemblyInfo.cache
+C:\Users\akumari\source\repos\UserAPI\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.RazorAssemblyInfo.cs
+C:\Users\akumari\source\repos\UserAPI\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.AssemblyInfoInputs.cache
+C:\Users\akumari\source\repos\UserAPI\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.AssemblyInfo.cs
+C:\Users\akumari\source\repos\UserAPI\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\akumari\source\repos\UserAPI\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.dll
+C:\Users\akumari\source\repos\UserAPI\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.pdb
+C:\Users\akumari\source\repos\UserAPI\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.csprojAssemblyReference.cache

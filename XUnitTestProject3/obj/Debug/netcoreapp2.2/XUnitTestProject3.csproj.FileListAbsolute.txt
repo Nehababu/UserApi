@@ -1,0 +1,17 @@
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\bin\Debug\netcoreapp2.2\XUnitTestProject3.deps.json
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\bin\Debug\netcoreapp2.2\XUnitTestProject3.runtimeconfig.json
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\bin\Debug\netcoreapp2.2\XUnitTestProject3.runtimeconfig.dev.json
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\bin\Debug\netcoreapp2.2\XUnitTestProject3.dll
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\bin\Debug\netcoreapp2.2\XUnitTestProject3.pdb
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\bin\Debug\netcoreapp2.2\UserAPI.dll
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\bin\Debug\netcoreapp2.2\UserAPI.pdb
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\obj\Debug\netcoreapp2.2\XUnitTestProject3.csprojAssemblyReference.cache
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\obj\Debug\netcoreapp2.2\XUnitTestProject3.csproj.CoreCompileInputs.cache
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\obj\Debug\netcoreapp2.2\XUnitTestProject3.AssemblyInfoInputs.cache
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\obj\Debug\netcoreapp2.2\XUnitTestProject3.AssemblyInfo.cs
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\obj\Debug\netcoreapp2.2\XUnitTestProject3.csproj.CopyComplete
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\obj\Debug\netcoreapp2.2\XUnitTestProject3.dll
+C:\Users\akumari\source\repos\UserAPI\XUnitTestProject3\obj\Debug\netcoreapp2.2\XUnitTestProject3.pdb
