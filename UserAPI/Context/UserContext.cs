@@ -45,6 +45,8 @@ namespace UserAPI.Context
         public async Task<List<User>> GetUsersByIdAsync(int id)
         {
             var context = new UserContext();
+            var a = context.Users.FirstOrDefaultAsync(x=>x.Id==id);
+            
             return await context.Users.Where(s=>s.Id==id).ToListAsync();
              
 
